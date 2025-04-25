@@ -1,0 +1,21 @@
+body{
+   text-align: center;;
+}
+
+div{
+    height: 100px;
+    width:500px;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 50px;
+}
+
+button{
+    color: white;
+    border-radius: 40px;
+}
+
+button:hover{
+    background-color: green;
+
+}
